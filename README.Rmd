@@ -1,0 +1,17 @@
+![](www/vienna.png)
+
+# The Vienna Chronicles
+This is a demo version of a hybrid paper-online game. 
+
+This is a game made with a science theme, to challenge yourself while having fun.
+
+# Folder and File Storage
+All static files, such as images, are stored in ./www folder.
+
+# Disclaimer
+All names, characters, and incidents portrayed in this story are fictitious. 
+There is no identification with actual persons, either dead or alive, places, buildings, and products is intended or should be inferred.
+Any resemblance to actual events or locales or persons, living or dead, is entirely coincidental.
+
+# Copyright
+While I found no fitting copyright license for this project, I request you do not copy or alter the code.
